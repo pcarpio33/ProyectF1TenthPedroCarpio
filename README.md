@@ -101,7 +101,7 @@ sudo apt install ros-humble-ackermann-msgs ros-humble-nav-msgs ros-humble-sensor
 
 ### 📎 Referencias
 
-- Este proyecto toma como inspiración el repositorio original de Taeyoung96:  
-  [f1tenth-my-own-driver](https://github.com/Taeyoung96/f1tenth-my-own-driver), el cual contiene nodos ROS implementados para el simulador F1TENTH, incluyendo lógica de conducción autónoma reactiva.
+- Este proyecto toma como base el metodo de follow the gap del repositorio original de Taeyoung96:  
+  [f1tenth-my-own-driver](https://github.com/Taeyoung96/f1tenth-my-own-driver), el cual contiene el nodo de ROS1  implementados para el simulador F1TENTH, incluyendo lógica de conducción autónoma reactiva.
 
 
