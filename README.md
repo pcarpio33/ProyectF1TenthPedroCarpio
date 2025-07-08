@@ -96,3 +96,12 @@ sudo apt install ros-humble-ackermann-msgs ros-humble-nav-msgs ros-humble-sensor
 - podemos obtener los resultados de las vueltaws y los tiempos.
 ![Screenshot from 2025-07-07 23-14-27](https://github.com/user-attachments/assets/2396f574-4694-412d-bb7e-75a6563771e4)
 
+
+---
+
+### 📎 Referencias
+
+- Este proyecto toma como inspiración el repositorio original de Taeyoung96:  
+  [f1tenth-my-own-driver](https://github.com/Taeyoung96/f1tenth-my-own-driver), el cual contiene nodos ROS implementados para el simulador F1TENTH, incluyendo lógica de conducción autónoma reactiva.
+
+
