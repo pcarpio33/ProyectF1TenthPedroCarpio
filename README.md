@@ -17,8 +17,8 @@ Además, incluye un **cronómetro de vueltas** que mide el tiempo por vuelta y c
 
 ## 📁 Estructura del Proyecto
 
-- [`follow_the_gap_node.py`](./follow_the_gap_node.py): Nodo ROS 2 que implementa el algoritmo Follow the Gap mejorado.
-- [`lap_timer.py`](./lap_timer.py): Nodo ROS 2 que mide el tiempo por vuelta y cuenta cuántas vueltas ha dado el vehículo.
+- [`follow_the_gap_node.py`](src/gap_follower/gap_follower/follow_the_gap.py): Nodo ROS 2 que implementa el algoritmo Follow the Gap mejorado.
+- [`lap_timer.py`](src/gap_follower/gap_follower/lap_timer.py): Nodo ROS 2 que mide el tiempo por vuelta y cuenta cuántas vueltas ha dado el vehículo.
 
 ---
 
