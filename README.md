@@ -96,6 +96,9 @@ sudo apt install ros-humble-ackermann-msgs ros-humble-nav-msgs ros-humble-sensor
 - podemos obtener los resultados de las vueltaws y los tiempos.
 ![Screenshot from 2025-07-07 23-14-27](https://github.com/user-attachments/assets/2396f574-4694-412d-bb7e-75a6563771e4)
 
+VIDEO EVIDENCIA 
+[Ver video en YouTube](https://youtu.be/Z2PfwlTBQxE)
+
 
 ---
 
